@@ -3,7 +3,7 @@ Fortnite Season X Theme Lite is a minimal Discord theme that only includes the b
 Perfect for users who want a sleek and stylish appearance without major interface changes.
 
 ## Preview
-![Theme Preview]([[https://raw.githubusercontent.com/YourUsername/YourRepo/main/preview.png](https://github.com/Kira290X/Fortnite-Season-X-Theme-Lite/blob/main/2746608.jpg)](https://wallpaperaccess.com/full/2746608.jpg))
+![Theme Preview](https://raw.githubusercontent.com/YourUsername/YourRepo/main/preview.png](https://github.com/Kira290X/Fortnite-Season-X-Theme-Lite/blob/main/2746608.jpg)](https://wallpaperaccess.com/full/2746608.jpg))
 
 
 # Features

@@ -1,0 +1,26 @@
+/**
+ * @name Fortnite Season  X Lite Theme
+ * @author Kira 290x
+ * @description A simple theme from https://github.com/Kira290X
+  * @version 1.0
+ */
+ 
+ :root {
+    --primary-530: rgba (200,200,200,1);
+    --primary-700: rgba (200,200,200,1);
+    --primary-600:  rgba (200,200,200,1);
+    --background-accent: color-mix(in oklab, var(--primary-530) 100%);
+    --guild-notifications-bottom-sheet-pill-background: color-mix(in oklab, var(--primary-700) 100%);
+    --background-primary: color-mix(in oklab, var(--primary-600) 100%);
+    --background-secondary: color-mix(in oklab, var(--primary-600) 100%);
+    color: black;
+}
+body {
+    font-family: Arial, Helvetica;
+    background-image: url("https://wallpaperaccess.com/full/2746608.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: black;
+    backdrop-filter: blur(10px);
+}
